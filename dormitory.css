@@ -1,7 +1,7 @@
 div.footer{
 	position: absolute;
 	width: 100%;
-	margin-top: 600px;
+	margin-top: 150px;
 }
 img {
     top: 0;
@@ -13,7 +13,7 @@ img {
     cursor: pointer;
 }
 a {
-	color: white;
+	color: gray;
 	font-size: 15px;
 }
 h5{
