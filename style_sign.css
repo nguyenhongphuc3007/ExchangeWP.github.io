@@ -1,0 +1,587 @@
+:root {
+  --input-padding-x: 1.5rem;
+  --input-padding-y: .75rem;
+}
+#background{
+background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(img/sejong_sign.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+}
+#background1{
+background1-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(img/sejong_sign.jpg);
+background1-size: cover;
+background1-repeat: no-repeat;
+}
+.logo{
+height: 5vw;
+width: 5 vw;
+position: absolute;
+left: 50%
+top: 30vw;
+}
+body {
+  background: linear-gradient(to right, #0062E6, #33AEFF);
+}
+
+.card-signin {
+  border: 0;
+  border-radius: 1rem;
+  box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.1);
+}
+.card-signin .card-title {
+  margin-bottom: 2rem;
+  font-weight: 300;
+  font-size: 1.5rem;
+}
+
+*{margin:0;padding:0; }
+
+
+
+.foot {
+
+    padding-bottom: 50px;
+
+}
+
+
+
+.leftmenu li {
+
+    float: left;
+
+    list-style: none;
+
+    margin-right: 15px;
+
+    padding-top: 50px;
+
+    padding-bottom: 20px;
+
+}
+
+
+
+nav.navbar.navbar-default {
+
+    /* padding-bottom: 0px; */
+
+    margin-bottom: 0px;
+
+    size: 50px;
+
+}
+
+
+
+.col-xs-5.col-sm-5.col-md-5.col-lg-5.cotphai {
+
+    padding-top: 24px;
+
+    padding-left: 30px;
+
+}
+
+
+
+.socialnetwork h1 {
+
+    font-weight: 650;
+
+}
+
+
+
+.socialnetwork {
+
+    background: url(img/sejong4.jpg);
+
+    padding: 80px;
+
+}
+
+
+
+nav.navbar.navbar-default.navbar-inverse {
+
+    margin-bottom: 0px;
+
+}
+
+
+
+.thumbnail{        
+
+    margin:0;
+
+    width: 300px; 
+
+    width : 100%;
+
+    height: 380px;
+
+    overflow: auto;
+
+}
+
+.thumbnail img {
+
+    height:200px;
+
+    width:100%;
+
+}
+
+
+
+.carousel-inner > .item > img {
+
+    top: 0;
+
+    left: 0;
+
+    min-width: 100%;
+
+    height: 610px;
+
+    max-height: 650px;
+
+    width: auto;
+
+    cursor: pointer;
+
+}
+
+.carousel-caption {
+
+	font-size: 15px; 
+
+}
+
+
+
+form#form1 {
+
+    
+
+    margin-left: 0px;
+
+}
+
+
+
+.dropbtn {
+
+  color: black;
+
+  padding: 17px;
+
+  font-size: 17px;
+
+  border: none;
+
+  background-color: #fdfdfd;
+
+}
+
+
+
+/* The container <div> - needed to position the dropdown content */
+
+.dropdown {
+
+  position: relative;
+
+  display: inline-block;
+
+}
+
+
+
+/* Dropdown Content (Hidden by Default) */
+
+.dropdown-content {
+
+  display: none;
+
+  position: absolute;
+
+  background-color: #f1f1f1;
+
+  min-width: 160px;
+
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+
+  z-index: 1;
+
+}
+
+
+
+/* Links inside the dropdown */
+
+.dropdown-content a {
+
+  color: black;
+
+  padding: 12px 16px;
+
+  text-decoration: none;
+
+  display: block;
+
+}
+
+
+
+#socialbtn {
+
+	color: black;
+
+  padding: 17px;
+
+  font-size: 17px;
+
+  border: none;
+
+
+
+}
+
+
+
+/* Change color of dropdown links on hover */
+
+.dropdown-content a:hover {background-color: #ddd;}
+
+
+
+/* Show the dropdown menu on hover */
+
+.dropdown:hover .dropdown-content {display: block;}
+
+
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+
+.dropdown:hover .dropbtn {background-color: #909090;}
+
+
+
+#logo1 {
+
+    
+
+    background-color: white;
+
+}
+
+
+
+h2{
+
+	line-height: 5%;
+
+	padding-bottom: 25px;
+
+	text-align: left;
+
+	font-size: 40px;
+
+	font-weight: bolder;
+
+}
+
+
+
+button.dropbtn {
+
+    height: 70px;
+
+    /* border: 1px solid; */
+
+}
+
+nav#nav2 {
+
+    background-color: #fdfdfd;
+
+    color: #fdfdfd;
+
+}
+
+nav.navbar.navbar-default.navbar-inverse {
+
+    background-color: #46344E;
+
+}
+
+
+
+.student{
+
+  background-color: #ff99ff;
+
+  
+
+  width: 100%;
+
+  height: 440px;
+
+  background-repeat: no-repeat;
+
+  background-size: 100% 100%;
+
+  background-position: center;
+
+}
+
+.heading {
+
+    margin-top: 60px;
+
+}
+
+#testimonial .avatar {
+
+    display: inline-block;
+
+    width: 167px;
+
+    height: 167px;
+
+    border-radius: 50%;
+
+    float: left;
+
+    background-repeat: no-repeat;
+
+    background-size: cover;
+
+    
+
+}
+
+#testimonial blockquote {
+
+    padding: 0;
+
+    border: none;
+
+    margin-left: 200px;
+
+    margin-bottom: 46px;
+
+    background: transparent url('img/sejong3.jpg') no-repeat right bottom;
+
+}
+
+.team-section{
+
+  overflow: hidden;
+
+  text-align: center;
+
+  background: #34495e;
+
+  padding: 60px;
+
+}
+
+.team-section h1{
+
+  text-transform: uppercase;
+
+  margin-bottom: 60px;
+
+  color: white;
+
+  font-size: 40px;
+
+}
+
+.border{
+
+  display:block;
+
+  margin:auto;
+
+  width: 160px;
+
+  height: 3px;
+
+  background: #3498db;
+
+  margin-bottom: 40px;
+
+}
+
+.ps{
+
+  margin-bottom: 40px;
+
+}
+
+.ps a {
+
+  display: inline-block;
+
+  margin: 0 30px;
+
+  width: 160px;
+
+  height: 160px;
+
+  overflow: hidden;
+
+  border-radius: 50%;
+
+}
+
+.ps a img{
+
+  width: 100%;
+
+  filter: brightness(60%);
+
+  transition: 0.4s all;
+
+}
+
+.ps a:hover >img {
+
+  filter: none;
+
+}
+
+
+
+.section{
+
+  width: 600px;
+
+  margin:auto;
+
+  font-size:22;  
+
+  color: white;
+
+  text-align: center;
+
+  height: 0;
+
+  overflow: hidden;
+
+}
+
+.section:target{
+
+  height: auto;
+
+}
+
+.name{
+
+  display: block;
+
+  margin-bottom: 30px;
+
+  text-align: center;
+
+  text-transform: uppercase;
+
+  font-size: 22px;
+
+  font-weight: bolder;
+
+}
+
+.card-signin .card-body {
+  padding: 2rem;
+}
+
+.form-signin {
+  width: 100%;
+
+}
+
+.form-signin .btn {
+  font-size: 80%;
+  border-radius: 5rem;
+  letter-spacing: .1rem;
+  font-weight: bold;
+  padding: 1rem;
+  transition: all 0.2s;
+}
+
+.form-label-group {
+  position: relative;
+  margin-bottom: 1rem;
+}
+
+.form-label-group input {
+  height: auto;
+  border-radius: 2rem;
+}
+
+.form-label-group>input,
+.form-label-group>label {
+  padding: var(--input-padding-y) var(--input-padding-x);
+}
+
+.form-label-group>label {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: block;
+  width: 100%;
+  margin-bottom: 0;
+  /* Override default `<label>` margin */
+  line-height: 1.5;
+  color: #495057;
+  border: 1px solid transparent;
+  border-radius: .25rem;
+  transition: all .1s ease-in-out;
+}
+
+.form-label-group input::-webkit-input-placeholder {
+  color: transparent;
+}
+
+.form-label-group input:-ms-input-placeholder {
+  color: transparent;
+}
+
+.form-label-group input::-ms-input-placeholder {
+  color: transparent;
+}
+
+.form-label-group input::-moz-placeholder {
+  color: transparent;
+}
+
+.form-label-group input::placeholder {
+  color: transparent;
+}
+
+.form-label-group input:not(:placeholder-shown) {
+  padding-top: calc(var(--input-padding-y) + var(--input-padding-y) * (2 / 3));
+  padding-bottom: calc(var(--input-padding-y) / 3);
+}
+
+.form-label-group input:not(:placeholder-shown)~label {
+  padding-top: calc(var(--input-padding-y) / 3);
+  padding-bottom: calc(var(--input-padding-y) / 3);
+  font-size: 12px;
+  color: #777;
+}
+
+.btn-google {
+  color: white;
+  background-color: #ea4335;
+}
+
+.btn-facebook {
+  color: white;
+  background-color: #3b5998;
+}
