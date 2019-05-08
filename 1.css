@@ -152,23 +152,7 @@ nav.navbar.navbar-default.navbar-inverse {
 .heading {
     margin-top: 60px;
 }
-#testimonial .avatar {
-    display: inline-block;
-    width: 167px;
-    height: 167px;
-    border-radius: 50%;
-    float: left;
-    background-repeat: no-repeat;
-    background-size: cover;
-    
-}
-#testimonial blockquote {
-    padding: 0;
-    border: none;
-    margin-left: 200px;
-    margin-bottom: 46px;
-    background: transparent url('img/sejong3.jpg') no-repeat right bottom;
-}
+
 .team-section{
   overflow: hidden;
   text-align: center;
