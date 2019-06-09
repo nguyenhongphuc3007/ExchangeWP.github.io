@@ -213,3 +213,37 @@ nav.navbar.navbar-default.navbar-inverse {
   font-size: 22px;
   font-weight: bolder;
 }
+
+#readbtn{
+  background-color: #B0E0E6;
+  height: 40px;
+  width: 200px;
+  border:none;
+  outline: none;
+  border:1px solid blue;
+  position: absolute;
+  top:87%;
+  left:50%;
+  transform:translate(-50%,-50%);
+  border-radius: 3px;
+  font-family: fantasy;
+  font-size: 17px;
+  color:#2D2D2D;
+  cursor: pointer;
+  overflow: hidden;
+}
+#readbtn:before{
+  content: '';
+  height:45px;
+  width:10px;
+  background-color: whitesmoke;
+  position: absolute;
+  top:50%;
+  left:50%;
+  transform: translate(-50%,-50%) skewX(-25deg);
+  z-index: -1;
+  transition:all .4s;
+}
+#readbtn:hover:before{
+  width: 240px;
+}
