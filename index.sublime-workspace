@@ -1,0 +1,347 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"font",
+				"font-style\tproperty"
+			],
+			[
+				"s",
+				"style\tAttr"
+			],
+			[
+				"dor",
+				"dormitory"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"f1",
+				"f1"
+			],
+			[
+				"text",
+				"text-transform\tproperty"
+			],
+			[
+				"b",
+				"brightness()\tfilter"
+			],
+			[
+				"tran",
+				"transition\tproperty"
+			],
+			[
+				"fil",
+				"filter\tproperty"
+			],
+			[
+				"inli",
+				"inline-block\tdisplay"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"margi",
+				"margin-bottom\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"do",
+				"Dormitory"
+			],
+			[
+				"bo",
+				"bottom\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"tr",
+				"tr\tTag"
+			],
+			[
+				"fon",
+				"font-weight\tproperty"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"pad",
+				"padding-bottom\tproperty"
+			],
+			[
+				"hei",
+				"height\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"bak",
+				"background-color\tproperty"
+			],
+			[
+				"bor",
+				"border\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"btn",
+				"btn-default"
+			],
+			[
+				"bold",
+				"bolder\tfont-weight"
+			],
+			[
+				"font-s",
+				"font-style\tproperty"
+			],
+			[
+				"car",
+				"carousel-indicators"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"backgro",
+				"background-size\tproperty"
+			],
+			[
+				"col-md",
+				"col-md-12"
+			],
+			[
+				"ba",
+				"background-image\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/OS/Documents/GitHub/ExchangeWP.github.io/index.html",
+		"/C/Users/OS/Documents/GitHub/ExchangeWP.github.io/Map.html",
+		"/C/Users/OS/Documents/GitHub/ExchangeWP.github.io/1.css",
+		"/C/Users/OS/Documents/GitHub/ExchangeWP.github.io/Dormitory.html",
+		"/C/Users/OS/Desktop/quiz4.html",
+		"/C/Users/OS/Documents/GitHub/ExchangeWP.github.io/map.css",
+		"/C/Users/OS/Downloads/Compressed/webpage/map.html",
+		"/C/Users/OS/Documents/GitHub/ExchangeWP.github.io/dormitory.css",
+		"/C/Users/OS/Downloads/Compressed/webpage/ma.css",
+		"/C/Users/OS/Desktop/Exchange Student/Web/ex_webpage_project/test.html",
+		"/C/Users/OS/Desktop/Exchange Student/Web/ex_webpage_project/1.css",
+		"/C/Users/OS/Desktop/Exchange Student/Web/ex_webpage_project/index.html.html",
+		"/C/Users/OS/Desktop/Exchange Student/Web/ex_webpage_project/dormitory.css",
+		"/C/Users/OS/Desktop/Exchange Student/Web/ex_webpage_project/Dormitory.html",
+		"/C/Users/OS/Desktop/Exchange Student/Web/ex_webpage_project/testwhole.html",
+		"/C/Users/OS/Desktop/Exchange Student/Web/ex_webpage_project/testwhole.css",
+		"/C/Users/OS/Desktop/Exchange Student/Web/ex_webpage_project/testweb.html",
+		"/C/Users/OS/Desktop/Exchange Student/Web/ex_webpage_project/testweb.css",
+		"/C/Users/OS/Desktop/Exchange Student/Web/ex_webpage_project/1.js",
+		"/C/Users/OS/Desktop/Exchange Student/Web/ex_webpage_project/1.html",
+		"/C/Users/OS/Desktop/Exchange Student/Web/ex_webpage_project/exam.html",
+		"/C/Users/OS/Desktop/Exchange Student/Web/ex_webpage_project/question15.html",
+		"/C/Users/OS/Desktop/ex104.html",
+		"/C/Users/OS/Desktop/exreplaced.html",
+		"/C/Users/OS/Desktop/Exchange Student/Web/js study/index.html",
+		"/C/Users/OS/Desktop/Exchange Student/Web/js study/ex1.html",
+		"/C/Users/OS/Desktop/19040027.text",
+		"/C/Users/OS/Desktop/Exchange Student/Web/ex_webpage/1.html",
+		"/C/Users/OS/Desktop/Exchange Student/Web/class_Work/example1.html",
+		"/C/Users/OS/Desktop/Exchange Student/Web/2.7/1.html",
+		"/C/Users/OS/Desktop/Exchange Student/Web/2.7/1.css",
+		"/C/Users/OS/Desktop/Exchange Student/Web/3.4/bai tap mau 1/demo 2.html",
+		"/C/Users/OS/Desktop/Exchange Student/Web/homepage.css",
+		"/C/Users/OS/Desktop/Exchange Student/Web/homepage.html",
+		"/C/Users/OS/Desktop/Exchange Student/Web/2.5/1.html"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

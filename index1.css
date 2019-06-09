@@ -1,0 +1,20 @@
+h1{
+    color: purple;
+}
+body{
+    font: bold solid Arial, Helvetica, sans-serif;
+    line-height: 1.6em;
+}
+.box1{
+    background-color: aqua;
+    color: blue;
+    border-bottom-width: 10px;
+    border-top-style: dotted;
+    border: 5px solid red;
+}
+.container{
+    width: 80%px;
+    margin:auto;
+
+
+}
