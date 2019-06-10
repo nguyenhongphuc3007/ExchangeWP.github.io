@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"trans",
+				"transform\tproperty"
+			],
+			[
+				"tran",
+				"transform\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
 				"pad",
 				"padding-left\tproperty"
 			],
@@ -62,10 +74,6 @@
 			[
 				"b",
 				"brightness()\tfilter"
-			],
-			[
-				"tran",
-				"transition\tproperty"
 			],
 			[
 				"fil",
@@ -164,50 +172,29 @@
 	"buffers":
 	[
 		{
-			"contents": "<!DOCTYPE html>\n<html>\n<head>\n\t<title>\n\t\t\n\t</title>\n\t<style type=\"text/css\">\n\t\t#div1{\n\t\t\tbackground-color: black; \n\t\t\tborder:4px solid red;\n\t\t\tpadding-left: 20px;\n\t\t\tpadding-bottom: 15px;\n\t\t}\n\t\t#div2{\n\t\t\tborder: 3px dotted grey;\n\t\t\tpadding-bottom: 5px;\n\t\t\tmargin-top: 20px;\n\t\t}\n\t\t#div3{\n\t\t\tborder: 2px solid grey;\n  \t\t\tborder-radius: 15px;\n  \t\t\tmargin-top: 20px;\n  \t\t\tpadding-left: 10px;\n  \t\t\tpadding-bottom: 20px;\n\n  \t\t}\n  \t\tli{\n  \t\t\tlist-style: none;\n  \t\t}\n\t</style>\n</head>\n<body>\n\t\n\t<div id=\"div1\">\n\t\t<h1 style=\"color: white; word-spacing: 30px; text-decoration: underline;font-style: italic;\t\">HELLO WORLD</h1>\n\t\t<p style=\"color:white\">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi non quis exercitationem culpa nesciunt nihil aut nostrum explicabo reprehenderit optio amet ab temporibus asperiores quasi cupiditate.\t</p>\n\t</div>\n\n\t<div id=\"div2\">\n\t\t<h1 style=\"color: #696969\">Hello World</h1>\n\t\t<p style=\"color: #696969\">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi non quis exercitationem culpa nesciunt nihil aut nostrum explicabo reprehenderit optio amet ab temporibus asperiores quasi cupiditate.</p>\n\t</div>\n\n\t<div id=\"div3\"> \n\t\t<h2 style=\"text-align: center; color: #696969\">Categories</h2>\n\t\t<li style=\"color: #696969\">Category 1</li>\n\t\t<li style=\"color: #696969\">Category 2</li>\n\t\t<li style=\"color: #696969\">Category 3</li>\n\t\t<li style=\"color: #696969\">Category 4</li>\n\t\t\n\t</div>\n\n</body>\n</html>",
-			"file": "/C/Users/OS/Desktop/quiz4.html",
-			"file_size": 1506,
-			"file_write_time": 132032611139321429,
-			"settings":
-			{
-				"buffer_size": 1453,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Users/OS/Desktop/Assignment4_NguyenHongPhuc_19040027.html",
-			"settings":
-			{
-				"buffer_size": 1633,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 13041,
+				"buffer_size": 13257,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Users/OS/Desktop/chatbot.html",
-			"settings":
-			{
-				"buffer_size": 14021,
-				"encoding": "UTF-8",
-				"line_ending": "Windows",
-				"name": "<iframe height=\"430\" width=\"350\" src=\"https://bot."
 			}
 		},
 		{
 			"file": "1.js",
 			"settings":
 			{
-				"buffer_size": 328,
+				"buffer_size": 150,
 				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "1.css",
+			"settings":
+			{
+				"buffer_size": 4084,
+				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		}
@@ -244,11 +231,14 @@
 	},
 	"file_history":
 	[
-		"/C/Users/OS/Documents/GitHub/ExchangeWP.github.io/index.html",
-		"/C/Users/OS/Documents/GitHub/ExchangeWP.github.io/Map.html",
-		"/C/Users/OS/Documents/GitHub/ExchangeWP.github.io/1.css",
 		"/C/Users/OS/Documents/GitHub/ExchangeWP.github.io/Dormitory.html",
 		"/C/Users/OS/Desktop/quiz4.html",
+		"/C/Users/OS/Documents/GitHub/ExchangeWP.github.io/index.html",
+		"/C/Users/OS/Documents/GitHub/ExchangeWP.github.io/1.js",
+		"/C/Users/OS/Desktop/chatbot.html",
+		"/C/Users/OS/Desktop/Assignment4_NguyenHongPhuc_19040027.html",
+		"/C/Users/OS/Documents/GitHub/ExchangeWP.github.io/Map.html",
+		"/C/Users/OS/Documents/GitHub/ExchangeWP.github.io/1.css",
 		"/C/Users/OS/Documents/GitHub/ExchangeWP.github.io/map.css",
 		"/C/Users/OS/Downloads/Compressed/webpage/map.html",
 		"/C/Users/OS/Documents/GitHub/ExchangeWP.github.io/dormitory.css",
@@ -282,7 +272,7 @@
 	],
 	"find":
 	{
-		"height": 38.0377358491
+		"height": 24.0
 	},
 	"find_in_files":
 	{
@@ -317,82 +307,24 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/C/Users/OS/Desktop/quiz4.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1453,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								429,
-								429
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/C/Users/OS/Desktop/Assignment4_NguyenHongPhuc_19040027.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1633,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1617,
-								1617
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 540.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
 					"file": "index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 13041,
+						"buffer_size": 13257,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								475,
-								558
+								1339,
+								1339
 							]
 						],
 						"settings":
@@ -409,28 +341,25 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "/C/Users/OS/Desktop/chatbot.html",
+					"buffer": 1,
+					"file": "1.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 14021,
+						"buffer_size": 150,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								224,
-								224
+								150,
+								150
 							]
 						],
 						"settings":
 						{
-							"auto_name": "<iframe height=\"430\" width=\"350\" src=\"https://bot.",
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -440,28 +369,30 @@
 					"type": "text"
 				},
 				{
-					"buffer": 4,
-					"file": "1.js",
+					"buffer": 2,
+					"file": "1.css",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 328,
+						"buffer_size": 4084,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								328,
-								328
+								4084,
+								4084
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 3615.39622642,
 						"zoom_level": 1.0
 					},
 					"stack_index": 2,
