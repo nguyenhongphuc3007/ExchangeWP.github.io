@@ -175,7 +175,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 13237,
+				"buffer_size": 13366,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -194,14 +194,6 @@
 			{
 				"buffer_size": 9820,
 				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "index1.css",
-			"settings":
-			{
-				"buffer_size": 300,
 				"line_ending": "Windows"
 			}
 		},
@@ -256,6 +248,7 @@
 	},
 	"file_history":
 	[
+		"/C/Users/OS/Documents/GitHub/ExchangeWP.github.io/index1.css",
 		"/C/Users/OS/Documents/GitHub/ExchangeWP.github.io/Dormitory.html",
 		"/C/Users/OS/Desktop/quiz4.html",
 		"/C/Users/OS/Documents/GitHub/ExchangeWP.github.io/index.html",
@@ -297,7 +290,7 @@
 	],
 	"find":
 	{
-		"height": 23.0
+		"height": 27.0
 	},
 	"find_in_files":
 	{
@@ -332,7 +325,7 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 4,
 			"sheets":
 			[
 				{
@@ -341,15 +334,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 13237,
+						"buffer_size": 13366,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								10388,
-								10388
+								8932,
+								8932
 							]
 						],
 						"settings":
@@ -359,10 +352,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 4590.0,
+						"translation.y": 4676.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
@@ -378,8 +371,8 @@
 						"selection":
 						[
 							[
-								0,
-								9842
+								500,
+								500
 							]
 						],
 						"settings":
@@ -387,10 +380,10 @@
 							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 2376.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
@@ -420,39 +413,11 @@
 						"translation.y": 2861.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
 					"buffer": 3,
-					"file": "index1.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 300,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
 					"file": "1.js",
 					"semi_transient": false,
 					"settings":
@@ -476,11 +441,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
-					"buffer": 5,
+					"buffer": 4,
 					"file": "1.css",
 					"semi_transient": false,
 					"settings":
@@ -492,8 +457,8 @@
 						"selection":
 						[
 							[
-								4084,
-								4084
+								3836,
+								3848
 							]
 						],
 						"settings":
@@ -503,10 +468,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 3205.0,
+						"translation.y": 3907.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -514,7 +479,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 23.0
+		"height": 27.0
 	},
 	"input":
 	{
@@ -551,7 +516,7 @@
 	"project": "sign.sublime-project",
 	"replace":
 	{
-		"height": 42.0
+		"height": 50.0
 	},
 	"save_all_on_build": true,
 	"select_file":
